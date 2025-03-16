@@ -63,6 +63,14 @@ button {
   color: #434455;
 }
 
+.address-menu-item {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
 .address-menu-link {
   font-weight: 400;
   font-size: 16px;
@@ -71,8 +79,8 @@ button {
   color: #434455;
 }
 
-.adress-menu-link:hover,
-.adress-menu-link:focus {
+.address-menu-link:hover,
+.address-menu-link:focus {
   color: #404bbf;
 }
 
